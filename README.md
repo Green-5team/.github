@@ -7,7 +7,6 @@
 
  🔗 Links
  ---
-[코드런 배포 주소](http://codelearn.store.s3-website-ap-northeast-1.amazonaws.com/login)
 <br/>
 [서비스 소개 영상](https://youtu.be/ZAnQ6E89Z1s)
 <!--   [발표 영상 URL] () -->
