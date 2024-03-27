@@ -7,8 +7,7 @@
 
  🔗 Links
  ---
-<br/>
-[서비스 소개 영상](https://youtu.be/ZAnQ6E89Z1s)
+[서비스 소개 영상] (https://youtu.be/ZAnQ6E89Z1s)
 <!--   [발표 영상 URL] () -->
 
 
